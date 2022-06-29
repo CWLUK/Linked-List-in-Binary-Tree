@@ -1,2 +1,1 @@
-# Linked-List-in-Binary-Tree
-Linked List Tree
+https://leetcode.com/problems/linked-list-in-binary-tree/
